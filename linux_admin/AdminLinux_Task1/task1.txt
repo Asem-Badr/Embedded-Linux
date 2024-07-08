@@ -1,0 +1,42 @@
+1. kali arch manjaro    
+2. man command is used to show us the manual pages which contains useful information about the commands, its args and how to use it 
+in addition to that the man command can show us the documentation of the c programming language such as :
+prompt> man printf
+3.rm is used to remove files and directories 
+rmdir is used to remove embty directories
+
+4. 
+a.rm dir1/dir11 
+rm: cannot remove 'dir1/dir11': Is a directory
+I overcame this by using the -r argument for thr rm command which worked fine
+I verified the functionality by using the command tree to visualize the directories 
+
+b.
+rmdir: failed to remove 'Documents/': Directory not empty
+rmdir: failed to remove '.': Invalid argument
+the hierarchy never changed 
+
+c./home/user/embedded_linux/AdminLinux_Task1/docs/mycv
+
+
+5. cp /etc/passwd ~/mypasswd
+
+6. mv mypasswd oldpasswd
+
+7.  1- cd
+    2- cd ~
+    3- cd ../../home/
+    4- cd /home
+
+8. ls /usr/bin/w*
+
+9. Displays the type of command the shell will execute
+
+10. 
+
+11. man -k "readfile"
+readfile (3am)       - return the entire contents of a file as a string
+
+12.Searchs the manual pages for names and descriptions
+
+
