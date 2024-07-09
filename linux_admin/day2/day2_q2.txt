@@ -1,0 +1,4 @@
+I moved the file successfully to /usr/local/bin using sudo rm out /user/local/bin
+now I can execute it any where in the device 
+If we printed the Path environment variable using $PATH in terminal we would find out that /user/local/bin is one
+of the directories that the systems search in it to execute programs and commands written in terminal.
